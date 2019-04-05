@@ -1,0 +1,107 @@
+{
+    "Personal": {
+        "firstName": "Bill ",
+        "lastName": "Gates",
+        "employerName": "Microsoft",
+        "city": "Seattle",
+        "state": "Washington",
+        "country": "USA",
+        "married": "y",
+        "children": "2",
+        "electronicAddress": "Billgates@klm.com",
+        "citizenship": "USA",
+        "phone": "123-555-1111",
+        "dateOfBirth": "1967-09-31",
+        "networth": "10.5",
+        "aum": "1000",
+        "cash": "200",
+        "securities ": "655",
+        "other ": "145",
+        "level": "UHNW",
+        "isDeceased": "FALSE"
+    },
+    "Twitter": {
+        "sentiment": {
+            "Gillian Tett: Is there a smarter way for tech giants to tackle online hate Many companies choose to delete offensi… ": "Negative",
+            "Treasuries stage biggest rally since May as Fed looks on hold for 2019 ": "Neutral",
+            "The UK government is preparing to fully implement its plans for a nodeal Brexit as soon as Monday \n\nThe plans c… ": "Neutral",
+            "Fed sees no further rate rises in 2019 ": "Neutral",
+            "The UKs largest business association says companies are watching the Brexit chaos with a sense of absolute horror… ": "Positive",
+            "One thing to note today is the way the Fed downgraded its characterisation of the US economys strength\n\nAt the be… ": "Neutral",
+            "Google has announced the launch of a video game streaming service that would pivot away from dedicated consoles tow… ": "Negative",
+            "Meanwhile at the EU from the latest BanxCartoons \n\nGet the latest: ": "Positive",
+            "PostBrexit trade ruling sparks accusations of a ‘land grab’ ": "Neutral",
+            "A scandal in the US revealed how wealthy Americans paid to get their children elite universities But is an Ivy Lea… ": "Positive",
+            "Hong Kong regulator freezes stock that romped more than 5000 ": "Positive",
+            "Just in: The Federal Reserve is signalling it won’t raise interest rates for the rest of this year US central bank… ": "Neutral",
+            "Without any warning or dramatic special effects her body dissolved into thin air’ – tim is unnerved by performan… ": "Negative",
+            "The ridehailing app has been on a bumpy road with regulators ": "Neutral",
+            "We asked FT readers for their thoughts about the US college admissions scandal – and got at least one very FT respo… ": "Negative",
+            "Feeling inspired by journalism and the challenge of writing about the future of Europe Try your luck at the Nico C… ": "Neutral",
+            "If you want a different perspective on these dramas ponder a topic that almost no British politician ever bothe… ": "Neutral",
+            "Dubai is the capital of glitz and glamour yet recently its tried to convey the message that its also tolerant to… ": "Neutral",
+            "Will Theresa May still be prime minister by the summer For the first time she has outlined the circumstances in w… ": "Positive",
+            "EUChinese trade relationships are key to the future of Europe yet relationships have been distant at best We tak… ": "Positive"
+        },
+        "mentions": {
+            "EdwardGLuce": 6,
+            "FinancialTimes": 5,
+            "lionelbarber": 4,
+            "SebastianEPayne": 3,
+            "FT": 3,
+            "Honeyandco": 2,
+            "ftdata": 2,
+            "sarahoconnor_": 2,
+            "JoshuaChaffin": 2,
+            "RobinBHarding": 2
+        },
+        "hashtags": {
+            "MeToo": 3,
+            "FTWeekendFestival": 2,
+            "OneFreePress": 1,
+            "BrexitVote": 1,
+            "InternationalWomensDay": 1,
+            "Romania": 1
+        }
+    },
+    "EmailInfo": {
+      "py/object": "EmailInfo.EmailInfo",
+      "_emailInfoList": [
+        {
+          "py/object": "EmailInfo.Email",
+          "_createdDate": "2019-03-13T17:54:16.000+0000",
+          "_salesforceId": "02s1U000002trY8QAI",
+          "_subject": "hello world",
+          "_textBody": "A 1972 NASA scandal involved the astronauts of Apollo 15, who carried about 400 unauthorized postal covers into space and to the Moons surface on the Lunar Module Falcon."
+        },
+        {
+          "py/object": "EmailInfo.Email",
+          "_createdDate": "2019-03-13T17:54:16.000+0000",
+          "_salesforceId": "02s1U000002trY8QAI",
+          "_subject": "hello world",
+          "_textBody": "A 1972 NASA scandal involved the astronauts of Apollo 15, who carried about 400 unauthorized postal covers into space and to the Moons surface on the Lunar Module Falcon."
+        },
+        {
+          "py/object": "EmailInfo.Email",
+          "_createdDate": "2019-03-13T17:54:16.000+0000",
+          "_salesforceId": "02s1U000002trY8QAI",
+          "_subject": "hello world",
+          "_textBody": "A 1972 NASA scandal involved the astronauts of Apollo 15, who carried about 400 unauthorized postal covers into space and to the Moons surface on the Lunar Module Falcon."
+        },
+        {
+          "py/object": "EmailInfo.Email",
+          "_createdDate": "2019-03-13T17:54:16.000+0000",
+          "_salesforceId": "02s1U000002trY8QAI",
+          "_subject": "hello world",
+          "_textBody": "A 1972 NASA scandal involved the astronauts of Apollo 15, who carried about 400 unauthorized postal covers into space and to the Moons surface on the Lunar Module Falcon."
+        },
+        {
+          "py/object": "EmailInfo.Email",
+          "_createdDate": "2019-03-13T17:54:16.000+0000",
+          "_salesforceId": "02s1U000002trY8QAI",
+          "_subject": "hello world",
+          "_textBody": "ppp A 1972 NASA scandal involved the astronauts of Apollo 15, who carried about 400 unauthorized postal covers into space and to the Moons surface on the Lunar Module Falcon."
+        }
+      ]
+    }
+}

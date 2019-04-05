@@ -1,0 +1,22 @@
+
+    {
+        "firstName": "Pierre ",
+        "lastName": "Omidyar",
+        "employerName": "Ebay",
+        "city": "Henderson",
+        "state": "Nevada",
+        "country": "USA",
+        "married": "y",
+        "children": "1",
+        "electronicAddress": "PierreOmidyar@klm.com",
+        "citizenship": "USA",
+        "phone": "123-555-0105",
+        "dateOfBirth": "1967-06-21",
+        "networth": "10.5",
+        "aum": "525",
+        "cash": "16",
+        "securities ": "431",
+        "other ": "79",
+        "level": "UHNW",
+        "isDeceased": "FALSE"
+    }
